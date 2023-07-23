@@ -26,13 +26,13 @@ function Home2() {
             <p className="home-about-body">
               I Predominantly code in JAVA and I have studied many programming Languages and I loved JAVA Language 
               <br />
-              <br /> Coming to my Technical Skills
+              <br /> My Technical Skills
               <i>
                 <b className="purple"> JAVA , SQL , React , JS , HTML & CSS </b>
               </i>
               <br />
               <br />
-              My Interests are I love to do Problem Solving especially in 
+               I love to do Problem Solving especially in 
               <i>
                 <b className="purple"> LeetCode </b> and  {" "}
                 <b className="purple">

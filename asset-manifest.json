@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/logesh/static/css/main.e91bd9fa.css",
+    "main.js": "/logesh/static/js/main.d857737b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/logesh/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/logesh/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/logesh/static/media/home-bg.5dc7b586d3a40f9b9acb.jpg",
+    "static/media/Logesh.pdf": "/logesh/static/media/Logesh.6f843471f397a394c0f2.pdf",
+    "static/media/home-main.svg": "/logesh/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/logesh/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Logi.jpg": "/logesh/static/media/Logi.f459c0014148bae8a192.jpg",
+    "static/media/blog.png": "/logesh/static/media/blog.8575f4e21e3ae755c9ed.png",
+    "static/media/codeEditor.png": "/logesh/static/media/codeEditor.11ef439b61ef46e9bc94.png",
+    "static/media/pre.svg": "/logesh/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/logesh/index.html",
+    "main.e91bd9fa.css.map": "/logesh/static/css/main.e91bd9fa.css.map",
+    "main.d857737b.js.map": "/logesh/static/js/main.d857737b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/logesh/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/logesh/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91bd9fa.css",
+    "static/js/main.d857737b.js"
+  ]
+}
